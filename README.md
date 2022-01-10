@@ -1,0 +1,2 @@
+# .github
+default repo settings
